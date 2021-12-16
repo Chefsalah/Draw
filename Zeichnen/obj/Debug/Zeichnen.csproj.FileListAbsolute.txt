@@ -1,0 +1,11 @@
+C:\Users\chefs\source\repos\Zeichnen\Zeichnen\bin\Debug\Zeichnen.exe.config
+C:\Users\chefs\source\repos\Zeichnen\Zeichnen\bin\Debug\Zeichnen.exe
+C:\Users\chefs\source\repos\Zeichnen\Zeichnen\bin\Debug\Zeichnen.pdb
+C:\Users\chefs\source\repos\Zeichnen\Zeichnen\obj\Debug\Zeichnen.csproj.AssemblyReference.cache
+C:\Users\chefs\source\repos\Zeichnen\Zeichnen\obj\Debug\Zeichnen.csproj.SuggestedBindingRedirects.cache
+C:\Users\chefs\source\repos\Zeichnen\Zeichnen\obj\Debug\Zeichnen.FrmZeichnen.resources
+C:\Users\chefs\source\repos\Zeichnen\Zeichnen\obj\Debug\Zeichnen.Properties.Resources.resources
+C:\Users\chefs\source\repos\Zeichnen\Zeichnen\obj\Debug\Zeichnen.csproj.GenerateResource.cache
+C:\Users\chefs\source\repos\Zeichnen\Zeichnen\obj\Debug\Zeichnen.csproj.CoreCompileInputs.cache
+C:\Users\chefs\source\repos\Zeichnen\Zeichnen\obj\Debug\Zeichnen.exe
+C:\Users\chefs\source\repos\Zeichnen\Zeichnen\obj\Debug\Zeichnen.pdb
